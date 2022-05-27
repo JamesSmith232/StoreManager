@@ -146,7 +146,4 @@ public class StoreManager {
         
         count = 0; 
     } //end of clearProductList() method
-    
-    
-
 } //end of class
